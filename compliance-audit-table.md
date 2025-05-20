@@ -6,6 +6,6 @@
 
 ### Risk Assessment
 
-| Potential Threat(s) | Vulnerability | Mitigating Factors |  Compensatory Controls| Likelihood | Impact | Overall | Risk Explanation |
-|-------- |----------| ---------| --------| ---------|-----| ----- | ----- |
-|content | content | content | content| content |
+| Control Name & Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors |  Compensatory Controls| Likelihood | Impact | Overall | Risk Explanation |
+|-------- |----------| ---------| --------| ---------|-----| ----- | ----- | ------ |
+|content | content | content | content| content | content |
