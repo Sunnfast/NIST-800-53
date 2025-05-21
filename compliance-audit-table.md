@@ -4,16 +4,16 @@
 
 | Control Name & Identifier                                                | Finding           | Disposition            |
 |--------                                                                  |----------                | ---------         |
-|AC-6(1) Authorize Access to Security Functions                            | content | content |
-|AC-6(2) Non-privileged Access for Nonsecurity Functions                   | content | content | 
-|AC-6(3) Network Access to Privileged Commands                             | content | content | 
-|AC-6(4) Separate Processing Domains                                       | content | content | 
-|AC-6(5) Privileged Accounts                                               | content | content |
-|AC-6(6) Privileged Access by Non-organizational Users                     | content | content | 
-|AC-6(7) Review of User Privileges                                         | content | content | 
-|AC-6(8) Privilege Levels for Code Execution                               | content | content | 
-|AC-6(9) Log Use of Privileged Functions                                   | content | content | 
-|AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| content | content | 
+|AC-6(1) Authorize Access to Security Functions                            | content | Control in Place |
+|AC-6(2) Non-privileged Access for Nonsecurity Functions                   | content | Control in Place | 
+|AC-6(3) Network Access to Privileged Commands                             | content | Control in Place | 
+|AC-6(4) Separate Processing Domains                                       | content | Control Partially In Place | 
+|AC-6(5) Privileged Accounts                                               | content | Control in Place |
+|AC-6(6) Privileged Access by Non-organizational Users                     | content | Control Partially In Place | 
+|AC-6(7) Review of User Privileges                                         | content | Control In Place | 
+|AC-6(8) Privilege Levels for Code Execution                               | content | Control In Place | 
+|AC-6(9) Log Use of Privileged Functions                                   | content | Control Partially In Place | 
+|AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| content | Control Partially In Place | 
 
 
 ### Risk Assessment
