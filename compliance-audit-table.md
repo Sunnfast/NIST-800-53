@@ -3,7 +3,7 @@
 ### Compliance Audit
 
 | Control Name & Identifier                                                | Finding           | Disposition            |
-|--------                                                                  |----------                | ---------         | --------               |
+|--------                                                                  |----------                | ---------         |
 |AC-6(1) Authorize Access to Security Functions                            | content | content |
 |AC-6(2) Non-privileged Access for Nonsecurity Functions                   | content | content | 
 |AC-6(3) Network Access to Privileged Commands                             | content | content | 
