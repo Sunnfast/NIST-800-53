@@ -2,18 +2,18 @@
 
 ### Compliance Audit
 
-| Control Name & Identifier | Control Text | Finding | Disposition|
-|-------- |----------| ---------| --------|
-|AC-6(1) Authorize Access to Security Functions | content | content | content|
-|AC-6(2) Non-privileged Access for Nonsecurity Functions| content | content | content|
-|AC-6(3) Network Access to Privileged Commands| content | content | content|
-|AC-6(4) Separate Processing Domains| content | content | content|
-|AC-6(5) Privileged Accounts| content | content | content|
-|AC-6(6) Privileged Access by Non-organizational Users| content | content | content|
-|AC-6(7) Review of User Privileges| content | content | content|
-|AC-6(8) Privilege Levels for Code Execution| content | content | content|
-|AC-6(9) Log Use of Privileged Functions| content | content | content|
-|AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| content | content | content|
+| Control Name & Identifier                                                | Finding           | Disposition            |
+|--------                                                                  |----------                | ---------         | --------               |
+|AC-6(1) Authorize Access to Security Functions                            | content | content |
+|AC-6(2) Non-privileged Access for Nonsecurity Functions                   | content | content | 
+|AC-6(3) Network Access to Privileged Commands                             | content | content | 
+|AC-6(4) Separate Processing Domains                                       | content | content | 
+|AC-6(5) Privileged Accounts                                               | content | content |
+|AC-6(6) Privileged Access by Non-organizational Users                     | content | content | 
+|AC-6(7) Review of User Privileges                                         | content | content | 
+|AC-6(8) Privilege Levels for Code Execution                               | content | content | 
+|AC-6(9) Log Use of Privileged Functions                                   | content | content | 
+|AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| content | content | 
 
 
 ### Risk Assessment
