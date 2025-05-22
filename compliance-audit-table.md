@@ -4,7 +4,7 @@
 
 | Control Name & Identifier                                                | Finding           | Disposition            |
 |--------                                                                  |----------                | ---------         |
-|AC-6(1) Authorize Access to Security Functions                            | content | Control in Place |
+|AC-6(1) Authorize Access to Security Functions                            | Enforces least privilege through RBAC. Requires access to be approved by by manager and the Information Security Office. Uses IAM platform to control access to security functions and security-relevant information. Access to sensitive systems is restricted to members of the Security Operations Center and specific roles who need the access.| Control in Place |
 |AC-6(2) Non-privileged Access for Nonsecurity Functions                   | content | Control in Place | 
 |AC-6(3) Network Access to Privileged Commands                             | content | Control in Place | 
 |AC-6(4) Separate Processing Domains                                       | content | Control Partially In Place | 
