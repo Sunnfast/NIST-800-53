@@ -32,7 +32,7 @@ IT Director: Pyrrha Dve
 
 **AC-6(5): How does your organization restrict the use of privileged accounts to designated personnel or roles?**
 
->Privileged accounts are restricted to designated personnel and roles as defined by HR and IT leadership. Account provisioning is managed through a centralized IAM system, and privileged credentials are rotated regularly and stored securely in a password vault. All administrative access is logged and monitored.
+>Privileged accounts are restricted to designated personnel and roles as defined by HR and IT leadership. Account provisioning is managed through a centralized IAM system, and privileged credentials are rotated regularly and stored securely in a password vault.
 
 **AC-6(6): How does your organization prevent non-organizational users from obtaining privileged access?** 
 
