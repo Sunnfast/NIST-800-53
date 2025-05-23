@@ -20,7 +20,7 @@ IT Director: Pyrrha Dve
 
 **AC-6(2): Does your organization have a policy that requires users of system accounts or roles with access to security functions use non-privileged accounts when accessing nonsecurity functions?**
 
-> Yes. Nine Houses mandates that users with privileged accounts also maintain separate, non-privileged user accounts for routine business operations. This policy is outlined in our Acceptable Use and Privilege Access Policy, and enforced through system login configurations and user education.
+> Yes. Nine Houses mandates that users with privileged accounts also maintain separate, non-privileged user accounts for routine business operations. This policy is outlined in our Acceptable Use and Privilege Access Policy, and enforced through system login configurations and annual cybersecurity trainings.
 
 **AC-6(3): Does your organization have a policy that requires authorized network access in order to use privileged commands? If so, where is this policy documented?**
 
