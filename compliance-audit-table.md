@@ -12,7 +12,7 @@
 |AC-6(6) Privileged Access by Non-organizational Users                     | Lacks a full standardized process for managing privileged access for non-organizational users. Currently generates access for contractors and third parties on a "case by case" basis which implies that it is manually performed. Has predominantly provided these non-organizational parties minimal access but will also temporarily grant elevated privileges for operational requirements. | *Control Partially In Place* | 
 |AC-6(7) Review of User Privileges                                         | Access privileges are reviewed for all personnel on a quarterly basis. Non-organizational parties does not have a specific periodic review and are performed "ad hoc". | *Control Partially In Place* | 
 |AC-6(8) Privilege Levels for Code Execution                               | User access to admin tools is blocked by default. Uses endpoint protection and application controls that prevent software from executing with elevated privileges unless approved. All applications used must be whitelisted. | Control In Place | 
-|AC-6(9) Log Use of Privileged Functions                                   | content | *Control Partially In Place* | 
+|AC-6(9) Log Use of Privileged Functions                                   | Only has some logs of privileged functions via system-level logging and basic audits. Lacks consistency of logging across all systems and review is ad hoc. Critical infrastructure is scrutinized but less visibility into general privileged activity. | *Control Partially In Place* | 
 |AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| content | *Control Partially In Place* | 
 
 
