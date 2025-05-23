@@ -28,7 +28,7 @@ IT Director: Pyrrha Dve
 
 **AC-6(4): Does your organization have separate network domains for different departments within the organization that ensures that departments only have access to the information they need?**
 
-> Nine Houses is in the process of developing more formalized network segmentation across departments. Currently, there is some logical separation of systems—particularly for Finance and Engineering—but not all departments have dedicated network domains. Access to sensitive data is primarily controlled through application-level permissions rather than network-level segmentation. We are working toward a more robust model that aligns with least privilege principles as part of our infrastructure roadmap.
+> Nine Houses is in the process of developing more formalized network segmentation across departments. Currently, there is some logical separation of systems—particularly for Finance and Engineering—but not all departments have dedicated network domains. Access to sensitive data is primarily controlled through application-level permissions rather than network-level segmentation. 
 
 **AC-6(5): How does your organization restrict the use of privileged accounts to designated personnel or roles?**
 
@@ -38,7 +38,7 @@ IT Director: Pyrrha Dve
 
 **How is this achieved?**
 
-> Currently, Nine Houses does not have a fully standardized process for managing privileged access for non-organizational users. In practice, access for contractors or third parties is granted on a case-by-case basis, often coordinated between department heads and IT. While such users are typically granted limited access, there are instances where elevated privileges may be temporarily assigned for operational needs. We recognize the need for tighter controls and are evaluating tools and processes to better restrict and monitor privileged access for non-employees.
+> Currently, Nine Houses does not have a fully standardized process for managing privileged access for non-organizational users. In practice, access for contractors or third parties is granted on a case-by-case basis, often coordinated between department heads and IT. While such users are typically granted limited access, there are instances where elevated privileges may be temporarily assigned for operational needs.
 
 **AC-6(7): Does your organization periodically review the privileges assigned to users to verify if they are still necessary? Does your organization reassign or remove privileges if access is no longer necessary for organizational business and mission needs?**
 
