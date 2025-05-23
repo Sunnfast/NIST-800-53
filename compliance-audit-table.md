@@ -13,7 +13,7 @@
 |AC-6(7) Review of User Privileges                                         | Access privileges are reviewed for all personnel on a quarterly basis. Non-organizational parties does not have a specific periodic review and are performed "ad hoc". | *Control Partially In Place* | 
 |AC-6(8) Privilege Levels for Code Execution                               | User access to admin tools is blocked by default. Uses endpoint protection and application controls that prevent software from executing with elevated privileges unless approved. All applications used must be whitelisted. | Control In Place | 
 |AC-6(9) Log Use of Privileged Functions                                   | Only has some logs of privileged functions via system-level logging and basic audits. Lacks consistency of logging across all systems and review is ad hoc. Critical infrastructure is scrutinized but less visibility into general privileged activity. | *Control Partially In Place* | 
-|AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| content | *Control Partially In Place* | 
+|AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| Uses RBAC to prevent non-privileged users from executing privileged functiosn on the "modern systems". Legacy systems exist and are lacking in more specific permissions controls. These legacy systems are not necessarily able to consistently enforce separation of duties. Instead relies on procedural safeguards and user training. | *Control Partially In Place* | 
 
 
 ### Risk Assessment
