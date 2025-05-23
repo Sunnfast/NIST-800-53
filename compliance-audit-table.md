@@ -11,7 +11,7 @@
 |AC-6(5) Privileged Accounts                                               | Requires HR and IT to designate and restrict specific employees that are allowed access to privielged accounts. Manages account provisioning through an IAM and privileged credentials are rotated and stored in password vault.| Control in Place |
 |AC-6(6) Privileged Access by Non-organizational Users                     | Lacks a full standardized process for managing privileged access for non-organizational users. Currently generates access for contractors and third parties on a "case by case" basis which implies that it is manually performed. Has predominantly provided these non-organizational parties minimal access but will also temporarily grant elevated privileges for operational requirements. | *Control Partially In Place* | 
 |AC-6(7) Review of User Privileges                                         | Access privileges are reviewed for all personnel on a quarterly basis. Non-organizational parties does not have a specific periodic review and are performed "ad hoc". | *Control Partially In Place* | 
-|AC-6(8) Privilege Levels for Code Execution                               | content | Control In Place | 
+|AC-6(8) Privilege Levels for Code Execution                               | User access to admin tools is blocked by default. Uses endpoint protection and application controls that prevent software from executing with elevated privileges unless approved. All applications used must be whitelisted. | Control In Place | 
 |AC-6(9) Log Use of Privileged Functions                                   | content | *Control Partially In Place* | 
 |AC-6(10) Prohibit Non-privileged Users from Executing Privileged Functions| content | *Control Partially In Place* | 
 
