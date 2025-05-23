@@ -54,4 +54,4 @@ IT Director: Pyrrha Dve
 
 **AC-6(10): Does your organization have controls in place to prevent non-privileged users from executing privileged functions?**
 
-> Nine Houses enforces role-based access controls to prevent non-privileged users from executing privileged functions on most modern systems. However, some legacy systems used by certain departments lack granular permission controls and make it more difficult to enforce strict separation of duties. In those cases, we rely on procedural safeguards and user training to mitigate risk, though we acknowledge this is not ideal. We are currently evaluating options to phase out or better isolate these legacy systems to bring them in line with our broader security standards.
+> Nine Houses enforces role-based access controls to prevent non-privileged users from executing privileged functions on most modern systems. However, some legacy systems used by certain departments lack granular permission controls and make it more difficult to enforce strict separation of duties. In those cases, we rely on procedural safeguards and user training to mitigate risk, though we acknowledge this is not ideal.
