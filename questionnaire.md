@@ -3,10 +3,7 @@
 **Company**: Nine Houses
 
 **Questionnaire Completed By**:
-
-* CISO: John Gaius
-
-* IT Director: Pyrrha Dve
+Pyrrha Dve, Information Technology Director
 
 **AC-6: How does your organization implement least privilege? How does your organization ensure that users only have access to the data that are necessary to accomplish assigned organizational tasks?**
 
