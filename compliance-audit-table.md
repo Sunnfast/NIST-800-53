@@ -25,7 +25,7 @@
 |AC-6(1) | - | - | -| - | - | - | -|
 |AC-6(2) | - | - | -| - | - | - | - |
 |AC-6(3) | - | - | -| - | - | - | - |
-|AC-6(4) | Information Disclosure, Unauthorized Access/Changes to Systems | content | content| 2 | 8 | 16 | content |
+|AC-6(4) | Information Disclosure, Unauthorized Access/Changes to Systems | If an adversary gains a foothold or access into one portion of Nine Houses' network then they will likely be able to pivot into more sensitive areas of the network with minimal friction (e.g. HR documents). | The Engineering and Finance sectors have their own separate segments of the network, but other departments like Human Resources still lack their own segment.| 2 | 8 | 16 | Implement full network segmentation for each department. Priority should be given to departments that handle sensitive data (i.e. Human Resources). |
 |AC-6(5) | - | - | -| - | - | - | -|
 |AC-6(6) | content | content | content| content | content | content | content |
 |AC-6(7) | content | content | content| content | content | content | content |
