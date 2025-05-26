@@ -19,7 +19,7 @@
 
 ### Risk Assessment
 
-| Control Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors & Compensatory Controls | Likelihood | Impact | Overall | Suggested Risk Mitigation |
+| Control Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors & Compensatory Controls | Likelihood | Impact | Overall | Recommendations  |
 |-------- |----------| ---------| --------| ---------|-----| ----- | ----- |
 |AC-6     | Data Modification/Destruction, Information Disclosure, Unauthorized Access/Changes to Systems   | Ex-employees or temporary contractors that were not fully offboarded could retain access to critical data and systems even after their business is complete and may not be discovered to still have this access until the annual review. | Well-established but slowly growing company. Has <20 employees currently and experiences low rates of turnover.| 5 | 10 | 50 | Risk can be reduced if access reviews are conducted more frequently (e.g. quarterly) to take into account any potential changes in personnel or third parties contractors. |
 |AC-6(1) | - | - | -| - | - | - | -|
