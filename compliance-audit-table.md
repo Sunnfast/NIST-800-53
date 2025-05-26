@@ -2,7 +2,7 @@
 
 ### Compliance Audit
 
-|Identifier & Control Name                                              |Control Description|    Finding           | Disposition            |
+|Identifier & Control Name                                              |Control Description|    Notes           | Disposition            |
 |--------         | ----                                                         |----------                | ---------         |
 |AC-6: Least Privilege | Employ the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) that are necessary to accomplish assigned organizational tasks.| Enforces least privilege through RBAC. Requires access requests to be approved by by manager and the Information Security Office. Access reviews are done only annually. | *Control Partially in Place* |
 |AC-6(1) Authorize Access to Security Functions                       | Authorize access for [Assignment: organization-defined individuals or roles] to: (a) [Assignment: organization-defined security functions (deployed in hardware, software, and firmware)]; and (b) [Assignment: organization-defined security-relevant information].    | Uses IAM platform to control access to security functions and security-relevant information. Access to sensitive systems is restricted to members of the Security Operations Center and specific roles who need the access.| Control in Place |
