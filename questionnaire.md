@@ -42,7 +42,7 @@ IT Director: Pyrrha Dve
 
 **AC-6(7): Does your organization periodically review the privileges assigned to users to verify if they are still necessary? Does your organization reassign or remove privileges if access is no longer necessary for organizational business and mission needs?**
 
-> Yes. Access privileges for all personnel are reviewed annually as part of our user access review process. Managers receive reports on user entitlements and must attest to their continued necessity. Any unnecessary privileges are promptly revoked, and terminated users are deprovisioned within 24 hours. Non-organizational parties' permissions are reviewed ad hoc.
+> Yes. Access privileges for all personnel are reviewed annually as part of our user access review process. As part of the review process managers receive reports on user entitlements and must attest to their continued necessity. At the conclusion of the reveiew, any unnecessary privileges are promptly revoked, and terminated users are deprovisioned within 24 hours. Non-organizational parties' permissions are reviewed ad hoc.
 
 **AC-6(8): Does your organization have controls in place to prevent software from executing at a higher privilege level than users executing the software?**
 
