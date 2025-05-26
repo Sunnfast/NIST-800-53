@@ -19,7 +19,7 @@
 
 ### Risk Assessment
 
-| Control Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors & Compensatory Controls | Likelihood | Impact | Overall | Risk Explanation |
+| Control Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors & Compensatory Controls | Likelihood | Impact | Overall | Suggested Risk Mitigation |
 |-------- |----------| ---------| --------| ---------|-----| ----- | ----- |
 |AC-6     | Data Modification/Destruction, Information Disclosure, Unauthorized Access/Changes to Systems   | Ex-employees or temporary contractors that were not fully offboarded could retain access to critical data and systems even after their business is complete and may not be discovered to still have this access until the annual review. | Well-established but slowly growing company. Has <20 employees currently and experiences low rates of turnover.| 5 | 10 | 50 | Risk can be reduced if access reviews are conducted more frequently (e.g. quarterly) to take into account any potential changes in personnel or third parties contractors. |
 |AC-6(1) | - | - | -| - | - | - | -|
@@ -27,7 +27,7 @@
 |AC-6(3) | - | - | -| - | - | - | - |
 |AC-6(4) | Information Disclosure, Unauthorized Access/Changes to Systems | If an adversary gains a foothold or access into one portion of Nine Houses' network then they will likely be able to pivot into more sensitive areas of the network with minimal friction (e.g. HR documents). | The Engineering and Finance sectors have their own separate segments of the network, but other departments like Human Resources still lack their own segment.| 2 | 8 | 16 | Implement full network segmentation for each department. Priority should be given to departments that handle sensitive data (i.e. Human Resources). |
 |AC-6(5) | - | - | -| - | - | - | -|
-|AC-6(6) | content | content | content| content | content | content | content |
+|AC-6(6) | Information Disclosure, Unauthorized Access/Changes to Systems | If Nine Houses neglects to timely terminate access for a non-organizational user after their contract has ended they are at risk of unauthorized access/changes. | Permissions are reviewed annually and Nine Houses colloborates with a very small number of third parties. | 2 | 8 | 16 | Offboarding third parties using an automated or standardized system coupled with more frequent access reviews can substantially decreased the chance of a non-organizational user retaining access beyond the scope of their work with Nine Houses. |
 |AC-6(7) | content | content | content| content | content | content | content |
 |AC-6(8) | - | - | -| - | - | - | - |
 |AC-6(9) | content | content | content| content | content | content | content |
