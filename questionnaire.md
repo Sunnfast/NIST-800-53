@@ -45,7 +45,7 @@ Pyrrha Dve, Information Technology Director
 
 **AC-6(8): Does your organization have controls in place to prevent software from executing at a higher privilege level than users executing the software?**
 
->Yes. Nine Houses uses endpoint protection and application control solutions that prevent software from running with elevated privileges unless explicitly approved. Applications must be whitelisted before execution. User access to administrative tools is blocked by default.
+>Yes. Nine Houses uses endpoint protection and application control solutions that prevent software from running with elevated privileges unless explicitly approved. Applications must be allowlisted before execution. User access to administrative tools is blocked by default.
 
 **AC-6(9): Does your organization log the use of privileged functions?**
 
