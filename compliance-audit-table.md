@@ -21,11 +21,11 @@
 
 | Control Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors & Compensatory Controls | Likelihood | Impact | Overall | Risk Explanation |
 |-------- |----------| ---------| --------| ---------|-----| ----- | ----- |
-|AC-6     | Data modification/estruction, information disclosure, unauthorized access/changes to systems   | Ex-employees or temporary contractors that were not fully offboarded could retain access to critical data and systems even after their business is complete and may not be discovered to still have this access until the annual review. | Well-established but slowly growing company. Has <20 employees currently and experiences low rates of turnover.| 5 | 10 | 50 | Risk can be reduced if access reviews are conducted more frequently (e.g. quarterly) to take into account any potential changes in personnel or third parties contractors. |
+|AC-6     | Data Modification/Destruction, Information Disclosure, Unauthorized Access/Changes to Systems   | Ex-employees or temporary contractors that were not fully offboarded could retain access to critical data and systems even after their business is complete and may not be discovered to still have this access until the annual review. | Well-established but slowly growing company. Has <20 employees currently and experiences low rates of turnover.| 5 | 10 | 50 | Risk can be reduced if access reviews are conducted more frequently (e.g. quarterly) to take into account any potential changes in personnel or third parties contractors. |
 |AC-6(1) | - | - | -| - | - | - | -|
 |AC-6(2) | - | - | -| - | - | - | - |
 |AC-6(3) | - | - | -| - | - | - | - |
-|AC-6(4) | Information disclosure, unauthorized access/changes to systems | content | content| 2 | 8 | 16 | content |
+|AC-6(4) | Information Disclosure, Unauthorized Access/Changes to Systems | content | content| 2 | 8 | 16 | content |
 |AC-6(5) | - | - | -| - | - | - | -|
 |AC-6(6) | content | content | content| content | content | content | content |
 |AC-6(7) | content | content | content| content | content | content | content |
