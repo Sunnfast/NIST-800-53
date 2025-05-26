@@ -21,7 +21,7 @@
 
 | Control Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors & Compensatory Controls | Likelihood | Impact | Overall | Risk Explanation |
 |-------- |----------| ---------| --------| ---------|-----| ----- | ----- |
-|AC-6     | content   | content | content | content | content | content | content |
+|AC-6     | Data modification, data destruction, information disclosure, unauthorized access/changes to systems   | Ex-employees or temporary contractors that were not fully offboarded will retain access to critical data and systems even after their business is complete and may not be discovered to still have this access until the annual review. | content | content | content | content | content |
 |AC-6(1) | - | - | -| - | - | - | -|
 |AC-6(2) | - | - | -| - | - | - | - |
 |AC-6(3) | - | - | -| - | - | - | - |
