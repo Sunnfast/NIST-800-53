@@ -21,14 +21,14 @@
 
 | Control Identifier| Potential Threat(s) | Vulnerability | Mitigating Factors & Compensatory Controls | Likelihood | Impact | Overall | Risk Explanation |
 |-------- |----------| ---------| --------| ---------|-----| ----- | ----- |
-|AC-6     | content   | content | content | content | content |
-|AC-6(1) | content | content | content| content | content |
-|AC-6(2) | content | content | content| content | content |
-|AC-6(3) | content | content | content| content | content |
-|AC-6(4) | content | content | content| content | content |
-|AC-6(5) | content | content | content| content | content |
-|AC-6(6) | content | content | content| content | content |
-|AC-6(7) | content | content | content| content | content |
-|AC-6(8) | content | content | content| content | content |
-|AC-6(9) | content | content | content| content | content |
-|AC-6(10) | content | content | content| content | content |
+|AC-6     | content   | content | content | content | content | content | content |
+|AC-6(1) | - | - | -| - | - | - | -|
+|AC-6(2) | - | - | -| - | - | - | - |
+|AC-6(3) | - | - | -| - | - | - | - |
+|AC-6(4) | content | content | content| content | content | content | content |
+|AC-6(5) | - | - | -| - | - | - | -|
+|AC-6(6) | content | content | content| content | content | content | content |
+|AC-6(7) | content | content | content| content | content | content | content |
+|AC-6(8) | - | - | -| - | - | - | - |
+|AC-6(9) | content | content | content| content | content | content | content |
+|AC-6(10) | content | content | content| content | content | content | content |
