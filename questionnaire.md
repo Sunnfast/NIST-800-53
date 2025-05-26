@@ -8,7 +8,7 @@ IT Director: Pyrrha Dve
 
 **AC-6: How does your organization implement least privilege? How does your organization ensure that users only have access to the data that are necessary to accomplish assigned organizational tasks?**
 
-> Nine Houses enforces least privilege through a role-based access control (RBAC) model, aligned with job functions and responsibilities. Access requests must be approved by both the employee’s manager and the Information Security Office. Access is granted based only on what is required for users to perform their organizational duties. Periodic access reviews are conducted quarterly to ensure access remains appropriate.
+> Nine Houses enforces least privilege through a role-based access control (RBAC) model, aligned with job functions and responsibilities. Access requests must be approved by both the employee’s manager and the Information Security Office. Access is granted based only on what is required for users to perform their organizational duties. Periodic access reviews are conducted annually to ensure access remains appropriate.
 
 **AC-6(1): How does your organization authorize access for specific individuals or roles to perform organization-defined:**
 
