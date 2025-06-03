@@ -8,7 +8,5 @@ Nine Houses is a small company that has approximately 19 employees. They have Sa
 
 Overall, Nine Houses does not meet the requirements for NIST 800-53 AC-6. 
 
-[Overall Recommendations]
-
 ### Objective & Scope
 This risk assessment is abased upon the requirements found in NIST 800-53 AC-6 Least Privilege. Analyst Simone performed an analysis of Nine Houses' system to identify gaps in current security measures and to rate the risk associated with those gaps. The Risk Severity rating for each finding is calculated by factoring the Likelihood x Impact ratings. The rating methodology can be found in Appendix A.
